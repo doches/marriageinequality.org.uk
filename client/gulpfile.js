@@ -68,9 +68,9 @@ gulp.task("image", function() {
   var pngFilter = gulpFilter('**/*.png');
 
   gulp.src('./src/img/*')
-    .pipe(pngFilter)
-    .pipe(optipng(['-o2']))
-    .pipe(pngFilter.restore())
+    // .pipe(pngFilter)
+    // .pipe(optipng(['-o0']))
+    // .pipe(pngFilter.restore())
     .pipe(gulp.dest('./build/img/'));
 });
 
