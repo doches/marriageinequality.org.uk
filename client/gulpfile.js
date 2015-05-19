@@ -15,6 +15,7 @@ var inject = require('gulp-inject');
 var es = require('event-stream');
 var optipng = require('gulp-optipng');
 var gulpFilter = require('gulp-filter');
+var uglify = require('gulp-uglify');
 
 // Compile less into CSS
 gulp.task('less', function () {
@@ -48,6 +49,16 @@ gulp.task('templates', function(){
     .pipe(gulp.dest('./build/scripts/'));
 });
 
+// Copy pre-compiled resources (JS and CSS)
+gulp.task('copy-js', function() {
+  gulp.src(['./src/**/*.js'])
+    .pipe(rename({dirname: ""}))
+    .pipe(gulp.dest('./build/scripts'));
+  gulp.src(['./src/**/*.css'])
+    .pipe(rename({dirname: ""}))
+    .pipe(gulp.dest('./build/styles'));
+});
+
 // Inject compiled CSS and JS into html
 gulp.task("html", function() {
   return gulp.src('./src/*.html')
@@ -68,13 +79,59 @@ gulp.task("image", function() {
   var pngFilter = gulpFilter('**/*.png');
 
   gulp.src('./src/img/*')
-    // .pipe(pngFilter)
-    // .pipe(optipng(['-o0']))
-    // .pipe(pngFilter.restore())
     .pipe(gulp.dest('./build/img/'));
 });
 
-gulp.task('dev', ['coffee', 'less', 'templates', 'html', 'image', 'serve-dev']);
+gulp.task('dev', ['build', 'serve-dev']);
+
+gulp.task("dist", ["build", "make-release"]);
+
+gulp.task("build", ["coffee", "less", "templates", "html", "image", "copy-js"]);
+
+gulp.task("make-release", function() {
+  // App scripts
+  gulp.src("./build/scripts/*.js")
+    .pipe(concat('compiled.js'))
+    .pipe(uglify())
+    .pipe(gulp.dest('./dist/scripts/'));
+  // App styles
+  gulp.src("./build/styles/*.css")
+    .pipe(concat('compiled.css'))
+    .pipe(gulp.dest('./dist/styles/'));
+  // App images
+  gulp.src('./build/img/*')
+    .pipe(gulp.dest('./dist/img/'));
+
+  // Bower scripts
+  gulp.src(bowerFiles())
+    .pipe(gulpFilter('**/*.js'))
+    .pipe(concat('third-party.js'))
+    .pipe(uglify())
+    .pipe(gulp.dest('./dist/scripts/third-party/'))
+  // Bower styles
+  gulp.src(bowerFiles())
+    .pipe(gulpFilter('**/*.css'))
+    .pipe(concat('third-party.css'))
+    .pipe(gulp.dest('./dist/styles/third-party/'))
+
+  // HTML
+  gulp.src('./src/*.html')
+    .pipe(inject(
+      gulp.src(['./scripts/*.js', './styles/*.css'], {read: false, cwd: './dist'}), {
+        ignorePath: '../dist/',
+        relative: true
+      }))
+    .pipe(gulp.dest('./dist'));
+  // HTML AGAIN, to include third-party resources
+  gulp.src('./dist/*.html')
+    .pipe(inject(
+      gulp.src(['./scripts/third-party/*.js', './styles/third-party/*.css'], {read: false, cwd: './dist'}), {
+        ignorePath: '../dist/',
+        relative: true,
+        name: 'bower'
+      }))
+    .pipe(gulp.dest('./dist'));
+});
 
 // Watch all source files for changes
 gulp.task('serve-dev', function() {
@@ -83,6 +140,7 @@ gulp.task('serve-dev', function() {
   gulp.watch(['src/**/*.handlebars'], ['templates']);
   gulp.watch(['src/*.html'], ['html']);
   gulp.watch(['src/img/*'], ['image']);
+  gulp.watch(['src/**/*.css', 'src/**/*.js'], ['copy-js']);
 
     // Reload browser-sync on change
   browserSync.init({

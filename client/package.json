@@ -32,5 +32,8 @@
   "bugs": {
     "url": "https://github.com/doches/chassis/issues"
   },
-  "homepage": "https://github.com/doches/chassis"
+  "homepage": "https://github.com/doches/chassis",
+  "devDependencies": {
+    "gulp-uglify": "^1.2.0"
+  }
 }
