@@ -1,0 +1,1825 @@
+{
+  "3131": [
+    "computer administrator",
+    "database administrator",
+    "IT administrator",
+    "network administrator",
+    "system administrator",
+    "systems administrator",
+    "IT coordinator",
+    "IT technician",
+    "network technician",
+    "software technician",
+    "systems technician",
+    "computer games tester"
+  ],
+  "8117": [
+    "forge assistant",
+    "furnace assistant",
+    "gilder's assistant",
+    "hammerman's assistant",
+    "heater's assistant",
+    "rolling mill assistant",
+    "pickler's assistant",
+    "plating assistant",
+    "roller's assistant",
+    "smith's assistant",
+    "stamper's assistant",
+    "blast furnace foreman",
+    "furnace foreman",
+    "rolling mill foreman",
+    "metal refining foreman",
+    "melting shop foreman",
+    "steel shop foreman",
+    "foreman",
+    "furnaceman",
+    "mill hand",
+    "pit hand",
+    "wire machinist",
+    "forge operator",
+    "furnace operator",
+    "mill worker"
+  ],
+  "1242": [
+    "children's centre manager",
+    "community centre manager",
+    "day centre manager",
+    "nursing home manager"
+  ],
+  "1136": [
+    "IT technician"
+  ],
+  "9120": [
+    "bricklayer's assistant",
+    "builders' assistant",
+    "carpenter's assistant",
+    "electrician's assistant",
+    "joiner's assistant",
+    "mason's assistant",
+    "plasterer's assistant",
+    "plumber's assistant",
+    "builder's handyman",
+    "carpenter's handyman",
+    "electrician's handyman",
+    "fitter's handyman",
+    "handyman-labourer",
+    "electrician's help",
+    "bricklayer's helper",
+    "carpenter's helper",
+    "electrician's helper",
+    "construction worker"
+  ],
+  "2216": [
+    "veterinary assistant"
+  ],
+  "3313": [
+    "fire prevention adviser",
+    "fireman's assistant",
+    "fire fighter"
+  ],
+  "2444": [
+    "pastor",
+    "church army officer",
+    "minister"
+  ],
+  "5421": [
+    "lithographic assistant",
+    "stereotyper's assistant",
+    "typographical designer",
+    "printer's draughtsman",
+    "machine engraver"
+  ],
+  "924": ["factory worker"],
+  "621": ["factory worker"],
+  "2472": [
+    "communications assistant"
+  ],
+  "5323": [
+    "painting contractor",
+    "house decorator"
+  ],
+  "1225": [
+    "front of house worker"
+  ],
+  "9239": [
+    "lavatory attendant",
+    "ladies' room attendant",
+    "wash room attendant",
+    "sanitary attendant",
+    "toilet attendant",
+    "chimney cleaner",
+    "drain cleaner",
+    "chimney sweeper"
+  ],
+  "8222": [
+    "fork-lift operator",
+    "fork lift operator",
+    "side loader operator",
+    "fork truck operator",
+    "forklift truck operator",
+    "fork lift truck operator"
+  ],
+  "6132": [
+    "exterminator",
+    "pest control technician",
+    "pest prevention service technician"
+  ],
+  "9249": [
+    "cloakroom attendant",
+    "left luggage attendant",
+    "museum attendant",
+    "lost property attendant",
+    "cloak room attendant",
+    "locker room attendant",
+    "luggage room attendant",
+    "waiting room attendant",
+    "school attendant",
+    "visitor services attendant",
+    "studio attendant",
+    "greeter",
+    "lift operator",
+    "porter",
+    "door receptionist",
+    "lift worker"
+  ],
+  "7123": [
+    "grocer's assistant",
+    "milk deliverer",
+    "baker's deliveryman",
+    "deliveryman",
+    "greengrocer",
+    "bread salesman",
+    "ice cream salesman",
+    "soft drinks salesman",
+    "ice-cream salesman",
+    "milk salesman",
+    "shop salesman",
+    "van salesman",
+    "salesman",
+    "ice cream vendor",
+    "ice-cream vendor",
+    "milk vendor"
+  ],
+  "5411": [
+    "joiner",
+    "knitter",
+    "textile weaver",
+    "weaver",
+    "carpet worker"
+  ],
+  "9112": [
+    "tree feller",
+    "arboricultural technician",
+    "forestry worker"
+  ],
+  "7125": [
+    "photographic stylist",
+    "display supervisor",
+    "window trimmer"
+  ],
+  "5112": [
+    "gardener's assistant",
+    "gardener's assistant",
+    "gardener",
+    "tree pruner",
+    "nursery supervisor",
+    "horticultural technician",
+    "seed worker"
+  ],
+  "8112": [
+    "glass blower's assistant",
+    "embosser's assistant",
+    "etcher's assistant",
+    "grinder's assistant",
+    "ladler's assistant",
+    "glass polisher's assistant",
+    "potter's assistant",
+    "thrower's assistant",
+    "casting belt attendant",
+    "dod box attendant",
+    "furnace attendant",
+    "kiln attendant",
+    "bottle machinist",
+    "brick machinist",
+    "micanite building machinist",
+    "glass coating machinist",
+    "glass cutting machinist",
+    "frosting machinist",
+    "grinding machinist",
+    "jigger machinist",
+    "jolley machinist",
+    "bottle making machinist",
+    "brick making machinist",
+    "mica machinist",
+    "slip painting machinist",
+    "sanitary pipe machinist",
+    "tapping machinist",
+    "tile machinist",
+    "bench worker",
+    "brick worker",
+    "clay worker",
+    "crucible worker",
+    "factory worker",
+    "fibreglass worker",
+    "process worker"
+  ],
+  "5312": [
+  "bricklayer",
+    "dry waller",
+    "trowel worker"
+  ],
+  "9232": [
+    "market attendant",
+    "highways cleaner",
+    "road cleaner",
+    "street cleaner",
+    "street sweeper",
+    "sweeper"
+  ],
+  "7": null,
+  "5114": [
+    "ground attendant",
+    "grounds keeper"
+  ],
+  "8135": [
+    "garage assistant",
+    "fast fit technician",
+    "tyre technician",
+    "garage worker",
+    "tyre worker"
+  ],
+  "5442": [
+    "furniture repairer",
+    "woodworker",
+    "bench worker",
+    "cabinet worker",
+    "case worker"
+  ],
+  "5431": [
+    "butcher's assistant",
+    "retail butcher",
+    "butcher",
+    "knackerman",
+    "butcher's machinist",
+    "slaughterhouse worker"
+  ],
+  "5212": [
+    "die cast operator"
+  ],
+  "5433": [
+    "fishmonger's assistant",
+    "fishmonger",
+    "fish worker",
+    "fish house worker"
+  ],
+  "5316": [
+    "glazier",
+    "welder",
+    "decorative glass worker",
+    "lead worker"
+  ],
+  "7115": [
+    "vehicle sales assistant",
+    "car salesman",
+    "parts technician"
+  ],
+  "8115": [
+    "rubber mill worker",
+    "tyre worker"
+  ],
+  "8214": [
+    "cabbie",
+    "delivery driver",
+    "hearse driver",
+    "private hire driver",
+    "taxi driver"
+  ],
+  "9231": [
+    "window cleaner",
+    "cleaner",
+    "window cleaning contractor"
+  ],
+  "6142": [
+    "ambulance care assistant",
+    "emergency medical technician"
+  ],
+  "9259": [
+    "internet shopping assistant",
+    "trolley assistant",
+    "minibar attendant",
+    "trolley attendant",
+    "bill sticker",
+    "tagger"
+  ],
+  "7215": [
+    "marketing research assistant",
+    "political canvasser",
+    "mystery shopper"
+  ],
+  "2318": [
+    "tutor",
+    "university marker"
+  ],
+  "2312": [
+    "tutor",
+    "university marker"
+  ],
+  "2463": [
+    "sanitary inspector",
+    "shops inspector",
+    "public health officer",
+    "sanitary officer"
+  ],
+  "2219": [
+    "occupational health adviser",
+    "health adviser",
+    "dental hygiene therapist",
+    "mental health worker"
+  ],
+  "2315": [
+    "dance lecturer",
+    "assistant tutor"
+  ],
+  "2314": [
+    "dance teacher",
+    "tutor"
+  ],
+  "1131": [
+  "community treasurer",
+  "church treasurer"
+  ],
+  "2119": [
+  "postgraduate student"
+  ],
+  "2426": [
+      "postdoctoral researcher"
+  ],
+  "2424": [
+    "junior fraud analyst"
+  ],
+  "3538": [
+    "customer service assistant"
+  ],
+  "2429": [
+    "arts administrator",
+    "arts program organiser",
+    "registrar"
+  ],
+  "1241": [
+    "veterinarian's assistant"
+  ],
+  "2217": [
+    "radiographer's assistant"
+  ],
+  "3314": [
+    "prison auxiliary",
+    "prison worker",
+    "prison warden",
+    "warder"
+  ],
+  "7220": [
+    "customer support operator",
+    "switchboard operator"
+  ],
+  "3122": [
+    "tool analyst",
+    "cartographic assistant",
+    "design assistant",
+    "draughtsman's assistant"
+  ],
+  "2442": [
+    "social worker"
+  ],
+  "3534": [
+    "trainee bank clerk"
+  ],
+  "2462": [
+    "compliance clerk",
+    "quality control assistant"
+  ],
+  "2221": [
+    "veterinary physiotherapist",
+    "physiotherapist",
+    "physiotherapy practitioner"
+  ],
+  "4161": [
+    "sales administration clerk"
+  ],
+  "3561": [
+    "cashier",
+    "branch clerk",
+    "elections clerk"
+  ],
+  "3520": [
+    "clerk",
+    "data protection officer"
+  ],
+  "5221": [
+    "cnc operator",
+    "lathe operator",
+    "robot operator"
+  ],
+  "1259": [
+    "shopkeeper"
+  ],
+  "2231": [
+    "tutor"
+  ],
+  "3116": [
+    "textile dyeing technician",
+    "production technician"
+  ],
+  "2421": [
+    "audit clerk"
+  ],
+  "3563": [
+    "trainee instructor",
+    "apprenticeship supervisor",
+    "trainee supervisor",
+    "training supervisor",
+    "supervisor",
+    "supervisor-instructor",
+    "sales teacher",
+    "computer trainer",
+    "industrial trainer",
+    "IT trainer",
+    "software trainer",
+    "staff trainer",
+    "technical trainer",
+    "information technology trainer",
+    "trainer",
+    "trainer-assessor"
+  ],
+  "3562": [
+    "employment adviser",
+    "staff assistant",
+    "human resources officer",
+    "staff recruiter"
+  ],
+  "3132": [
+    "computer support technician",
+    "IT support technician",
+    "support technician",
+    "support technician",
+    "computer help desk worker"
+  ],
+  "3235": [
+    "debt adviser",
+    "life coach",
+    "drugs and alcohol counsellor",
+    "school counsellor"
+  ],
+  "2311": [
+    "postgraduate teaching assistant",
+    "teaching assistant",
+    "tutorial assistant",
+    "university demonstrator",
+    "course tutor",
+    "midwife tutor",
+    "tutor"
+  ],
+  "3541": [
+    "purchasing assistant",
+    "trading assistant",
+    "supplies officer"
+  ],
+  "2423": [
+    "insurance risk surveyor"
+  ],
+  "1150": [
+    "post officer worker"
+  ],
+  "3539": [
+    "compliance assistant",
+    "GIS assistant",
+    "standard practice inspector",
+    "standards room inspector"
+  ],
+  "3542": [
+    "tyre salesman",
+    "van salesman",
+    "salesman"
+  ],
+  "1121": [
+      "foundry worker"
+  ],
+  "3231": [
+    "community arts worker",
+    "family centre worker",
+    "community worker",
+    "community development worker",
+    "youth development worker",
+    "community education worker",
+    "community outreach worker",
+    "outreach worker",
+    "parish worker",
+    "parochial worker",
+    "resource worker",
+    "family support worker",
+    "youth support worker",
+    "youth worker",
+    "youth and community worker"
+  ],
+  "3219": [
+    "acupuncturist",
+    "diet adviser",
+    "aromatherapist",
+    "critical care technologist",
+    "stress therapist",
+    "therapist"
+  ],
+  "9119": [
+    "fish farm assistant",
+    "labourer",
+    "salmon farm worker",
+    "horticultural worker",
+    "nursery worker",
+    "seasonal worker"
+  ],
+  "1139": [
+    "charity secretary"
+  ],
+  "8213": [
+    "coach driver",
+    "bus driver",
+    "driver"
+  ],
+  "1162": [
+    "stock control manager",
+    "inventory manager"
+  ],
+  "6214": [
+    "cabin attendant",
+    "flight attendant",
+    "aircraft steward",
+    "airline steward",
+    "cabin steward"
+  ],
+  "2223": [
+    "communication therapist",
+    "language therapist",
+    "speech therapist",
+    "speech and language therapist"
+  ],
+  "3564": [
+    "student ambassador",
+    "careers consultant",
+    "placement coordinator",
+    "outplacement counsellor",
+    "redundancy counsellor",
+    "youth employment officer",
+    "placement supervisor",
+    "careers teacher",
+    "graduate guidance tutor"
+  ],
+  "3533": [
+    "underwriter's assistant",
+    "insurance handler",
+    "apprentice underwriter"
+  ],
+  "3217": [
+    "accuracy checking technician",
+    "checking technician",
+    "dispensing technician",
+    "pharmaceutical technician",
+    "pharmacy technician"
+  ],
+  "3112": [
+    "electronics assistant",
+    "technician"
+  ],
+  "5223": [
+    "brake adjuster",
+    "machine adjuster",
+    "machine shop fitter",
+    "farm mechanic",
+    "lift mechanic",
+    "sewing machine mechanic",
+    "hydraulic technician",
+    "maintenance technician",
+    "metal worker"
+  ],
+  "4212": [
+    "legal aid clerk",
+    "secretary"
+  ],
+  "9132": [
+    "cleaner",
+    "washer",
+    "hygiene worker"
+  ],
+  "8125": [
+    "auto attendant",
+    "machinist",
+    "weaver",
+    "wheelabrator",
+    "box wirer",
+    "metal box worker",
+    "brass worker"
+  ],
+  "1116": [
+    "counsellor"
+  ],
+  "8139": [
+    "factory assembler",
+    "watch assembler",
+    "green house assistant",
+    "lithographer's assistant",
+    "painter's assistant",
+    "production assistant",
+    "furniture finisher",
+    "paint shop foreman",
+    "foreman",
+    "joiner",
+    "lacer",
+    "lacquerer",
+    "machinist"
+  ],
+  "9134": [
+    "bagman",
+    "bottling foreman",
+    "packing room foreman",
+    "foreman",
+    "machinist",
+    "line operator",
+    "machine operator",
+    "factory packer",
+    "warehouse packer",
+    "bench worker",
+    "cannery worker",
+    "factory worker"
+  ],
+  "7113": [
+    "sales adviser",
+    "telemarketing adviser",
+    "telesales adviser",
+    "telephone sales agent",
+    "telemarketing agent",
+    "telephone marketing assistant",
+    "telephone sales assistant",
+    "telemarketing assistant",
+    "telemarketer",
+    "marketing telephonist",
+    "sales telephonist"
+  ],
+  "4215": [
+    "manager's personal assistant",
+    "personal assistant",
+    "secretarial assistant",
+    "confidential clerk",
+    "assistant secretary",
+    "personal secretary",
+    "private secretary",
+    "technical secretary",
+    "secretary"
+  ],
+  "7211": [
+    "call centre adviser",
+    "contact centre adviser",
+    "communications adviser",
+    "customer adviser",
+    "personal lines adviser",
+    "customer management adviser",
+    "customer service adviser",
+    "telephone adviser",
+    "call centre agent",
+    "call centre operator",
+    "contact centre operator",
+    "helpline operator"
+  ],
+  "8229": [
+    "piling operative",
+    "bulldozer operator",
+    "caterpillar operator",
+    "charger operator",
+    "dredger operator",
+    "pneumatic drill operator",
+    "plant operator",
+    "trucker"
+  ],
+  "8111": [
+    "bakehouse assistant",
+    "bakery assistant",
+    "creamery worker",
+    "factory worker"
+  ],
+  "8132": [
+    "brake assembler",
+    "car assembler",
+    "component assembler",
+    "riveter"
+  ],
+  "6141": [
+    "care worker",
+    "healthcare worker",
+    "hospital worker",
+    "health care support worker",
+    "care support worker",
+    "clinical support worker",
+    "health support worker",
+    "maternity support worker",
+    "occupational therapy support worker",
+    "support worker"
+  ],
+  "7213": [
+    "switchboard operator",
+    "telephone operator",
+    "shorthand telephonist",
+    "telephonist"
+  ],
+  "7130": [
+    "service centre supervisor",
+    "check-out supervisor",
+    "counter supervisor",
+    "kiosk supervisor",
+    "market supervisor",
+    "produce supervisor",
+    "shop supervisor",
+    "store supervisor",
+    "supermarket supervisor",
+    "telesales supervisor",
+    "shop walker"
+  ],
+  "8212": [
+    "courier driver",
+    "parcel delivery driver",
+    "delivery van driver",
+    "van driver",
+    "warehouse driver",
+    "driver"
+  ],
+  "5434": [
+    "cook"
+  ],
+  "6143": [
+    "dental receptionist"
+  ],
+  "8121": [
+    "joiner",
+    "woodcutting machinist",
+    "woodworking machinist",
+    "machinist",
+    "paper mill worker",
+    "saw mill worker",
+    "mill worker",
+    "paper worker"
+  ],
+  "6139": [
+    "animal care assistant",
+    "animal technician",
+    "animal care laboratory technician",
+    "animal trainer",
+    "dog trainer",
+    "horse trainer",
+    "dog walker"
+  ],
+  "8131": [
+    "electrician"
+  ],
+  "5419": [
+    "dress maker's assistant",
+    "tapestry worker"
+  ],
+  "4159": [
+    "arts assistant",
+    "office clerk",
+    "registration clerk",
+    "church officer",
+    "administrative worker",
+    "clerical worker"
+  ],
+  "9139": [
+    "steelworker",
+    "factory worker",
+    "foundry worker",
+    "gas worker",
+    "iron worker",
+    "metal worker",
+    "mill worker",
+    "munitions worker",
+    "paper worker",
+    "steel worker",
+    "textile worker",
+    "timber worker",
+    "yardsman"
+  ],
+  "6122": [
+    "child care assistant",
+    "child minder",
+    "children's nurse",
+    "nursemaid",
+    "baby sitter"
+  ],
+  "3119": [
+    "metallurgical assistant",
+    "school technician",
+    "workshop technician"
+  ],
+  "7122": [
+    "toll booth attendant",
+    "toll gate attendant",
+    "vending machine operative",
+    "meter operative",
+    "toll booth operator"
+  ],
+  "4217": [
+    "data control clerk",
+    "data entry clerk",
+    "order entry clerk",
+    "typist",
+    "shorthand writer"
+  ],
+  "8137": [
+    "sewing room assistant",
+    "sewing machinist",
+    "seamstress",
+    "sewing room supervisor"
+  ],
+  "6240": [
+    "housekeeper"
+  ],
+  "1221": [
+    "boarding house keeper",
+    "college steward",
+    "hostel steward"
+  ],
+  "9234": [
+    "factory worker",
+    "launderette worker",
+    "laundry worker",
+    "process worker"
+  ],
+  "6221": [
+    "salon assistant",
+    "barber",
+    "hair dresser",
+    "hair stylist",
+    "hair and beauty technician"
+  ],
+  "8113": [
+    "textile worker"
+  ],
+  "5435": [
+    "school cook",
+    "fish fryer",
+    "pastry cook"
+  ],
+  "9251": [
+    "shelf stocker",
+    "stockist"
+  ],
+  "7112": [
+    "filling station attendant",
+    "petrol station attendant",
+    "shop cashier",
+    "petrol station cashier",
+    "supermarket cashier",
+    "till operator",
+    "petrol salesman"
+  ],
+  "7111": [
+    "customer service assistant",
+    "customer associate",
+    "retail associate",
+    "sales associate",
+    "kiosk attendant",
+    "show room attendant",
+    "butcher's salesman",
+    "counter salesman",
+    "fish salesman",
+    "fish and fruit salesman",
+    "fish and poultry salesman",
+    "fishmonger's salesman",
+    "indoor salesman",
+    "market salesman",
+    "meat salesman",
+    "milk salesman",
+    "motor salesman",
+    "retail salesman",
+    "shop salesman",
+    "showroom salesman",
+    "television salesman",
+    "retail worker",
+    "shop worker"
+  ],
+  "9272": [
+    "sandwich artist",
+    "cook's assistant",
+    "counter assistant",
+    "café worker",
+    "canteen worker",
+    "catering worker",
+    "kitchen worker",
+    "restaurant worker",
+    "service worker"
+  ],
+  "9244": [
+    "school crossing patrolman",
+    "school meals supervisor"
+  ],
+  "5443": [
+    "florist"
+  ],
+  "9275": [
+    "hotel attendant",
+    "amusement arcade supervisor",
+    "cinema worker"
+  ],
+  "6147": [
+    "bus driver"
+  ],
+  "9233": [
+    "hospital cleaner",
+    "cleaner",
+    "domestic worker",
+    "house worker"
+  ],
+  "9274": [
+    "bar keeper",
+    "bar operative",
+    "bar staff",
+    "bar steward",
+    "bar supervisor",
+    "bar tender",
+    "bar worker"
+  ],
+  "9273": [
+    "maitre d'hotel",
+    "party organiser",
+    "shift runner",
+    "runner",
+    "head waiter",
+    "restaurant waiter",
+    "waiter"
+  ],
+  "6123": [
+    "after school club activities coordinator",
+    "playschool worker"
+  ],
+  "9219": [
+    "office machinery operator",
+    "print room operator",
+    "office worker"
+  ],
+  "4135": [
+    "clerical assistant",
+    "library assistant"
+  ],
+  "9279": [
+    "receptionist",
+    "hotel worker"
+  ],
+  "6121": [
+    "creche assistant",
+    "general assistant",
+    "kindergarten assistant",
+    "nursery assistant",
+    "pre-school assistant",
+    "early years assistant",
+    "créche attendant",
+    "nursery attendant",
+    "kindergarten teacher",
+    "nursery teacher",
+    "pre-school teacher",
+    "créche worker",
+    "nursery worker",
+    "nursery support worker",
+    "early years support worker"
+  ],
+  "6125": [
+    "nursery school assistant",
+    "nursery schools assistant",
+    "classroom support assistant",
+    "teacher's assistant",
+    "classroom helper",
+    "school helper",
+    "teacher's support worker"
+  ],
+  "6126": [
+    "special needs teaching assistant",
+    "behaviour support worker",
+    "communication support worker",
+    "learning support worker",
+    "pastoral support worker",
+    "support worker",
+    "welfare worker"
+  ],
+  "4214": [
+    "assistant secretary",
+    "club secretary",
+    "company secretary",
+    "corporation secretary",
+    "resident secretary",
+    "sports secretary"
+  ],
+  "6232": [
+    "caretaker's assistant",
+    "hall keeper's assistant",
+    "school keeper's assistant",
+    "premises assistant",
+    "town hall attendant",
+    "synagogue attendant",
+    "caretaker",
+    "concierge",
+    "janitor",
+    "cemetery keeper",
+    "chapel keeper",
+    "church keeper",
+    "court keeper",
+    "door keeper",
+    "burial ground keeper",
+    "warden"
+  ],
+  "7114": [
+    "healthcare adviser",
+    "optical adviser",
+    "optical sales adviser",
+    "health care assistant",
+    "chemist's assistant",
+    "chemist's assistant",
+    "medicines counter assistant",
+    "pharmacy counter assistant",
+    "counter assistant",
+    "counter assistant",
+    "dispensary assistant",
+    "dispenser's assistant",
+    "optical dispensing assistant",
+    "pharmacy dispensing assistant",
+    "dispensing assistant",
+    "dispensing assistant",
+    "healthcare assistant",
+    "contact lens assistant",
+    "optical assistant",
+    "optician's assistant",
+    "optometrist's assistant",
+    "pharmaceutical assistant",
+    "pharmacist's assistant",
+    "pharmacy assistant",
+    "chemist's shop assistant",
+    "chemist dispenser",
+    "dispenser",
+    "assistant technical officer"
+  ],
+  "6211": [
+    "leisure centre assistant",
+    "museum education assistant",
+    "gym assistant",
+    "heritage assistant",
+    "leisure assistant",
+    "book maker's assistant",
+    "museum assistant",
+    "recreation assistant",
+    "museum visitor assistant",
+    "visitor services assistant",
+    "sports assistant",
+    "wardrobe assistant",
+    "sports centre attendant",
+    "centre attendant",
+    "games attendant",
+    "bowling green attendant",
+    "gymnasium attendant",
+    "leisure attendant",
+    "swimming pool attendant",
+    "pool attendant",
+    "visitor services attendant",
+    "pool lifeguard",
+    "lifeguard",
+    "duty officer",
+    "leisure centre supervisor",
+    "sports centre supervisor",
+    "gaming supervisor",
+    "swimming pool supervisor"
+  ],
+  "8134": [
+    "measuring machinist",
+    "weighing machinist",
+    "waste sorter",
+    "wood sorter",
+    "yardsman"
+  ],
+  "4216": [
+    "front of house manager",
+    "dental receptionist",
+    "doctor's receptionist",
+    "hotel receptionist",
+    "medical receptionist",
+    "receptionist",
+    "administrator",
+    "bookkeeper",
+    "clerk",
+    "secretary",
+    "telephonist",
+    "typist"
+  ],
+  "6231": [
+    "attendant",
+    "batman",
+    "steward",
+    "valet"
+  ],
+  "6145": [
+    "care aide",
+    "home aide",
+    "shelter worker",
+    "resident social worker",
+    "residential social worker",
+    "community support worker",
+    "learning disabilities support worker",
+    "mental health support worker",
+    "health support worker",
+    "home support worker",
+    "support worker"
+  ],
+  "3216": [
+    "optical dispenser",
+    "dispensing optician"
+  ],
+  "6222": [
+    "beautician",
+    "cosmetologist",
+    "wig dresser",
+    "body piercer",
+    "beauty specialist",
+    "tattooist",
+    "nail technician",
+    "beauty therapist"
+  ],
+  "4211": [
+    "doctor's secretary",
+    "hospital secretary",
+    "medical secretary",
+    "secretary",
+    "medical notes summariser",
+    "clerical worker"
+  ],
+  "9260": [
+    "cargo handler",
+    "freight handler",
+    "store keeper-clerk",
+    "dock labourer",
+    "fish labourer",
+    "jetty labourer",
+    "pitwood labourer",
+    "pontoon labourer",
+    "quay labourer",
+    "quayside labourer",
+    "riverside labourer",
+    "ship labourer",
+    "stevedore's labourer",
+    "storekeeper's labourer",
+    "stores labourer",
+    "warehouse labourer",
+    "waterside labourer",
+    "wharf labourer",
+    "freight lifter",
+    "barge loader",
+    "boat loader",
+    "dockside loader",
+    "fish loader",
+    "lorry loader",
+    "timber loader",
+    "warehouse loader",
+    "van porter",
+    "warehouse porter",
+    "stevedore",
+    "dock worker",
+    "cargo worker",
+    "depot worker",
+    "stock room worker",
+    "supply worker",
+    "transport worker",
+    "warehouse worker",
+    "yard worker",
+    "yardman",
+    "yardsman"
+  ],
+  "5432": [
+    "baker's assistant",
+    "confectioner's assistant",
+    "baker",
+    "cake maker",
+    "confectionery maker"
+  ],
+  "4138": [
+    "administrative assistant",
+    "training assistant",
+    "personnel office clerk",
+    "personnel clerk",
+    "staff administration officer",
+    "administrative officer",
+    "organiser"
+  ],
+  "8114": [
+    "furnaceman",
+    "gasman",
+    "rotary machinist",
+    "medicinal products worker",
+    "rayon worker",
+    "oil refinery worker",
+    "salt worker",
+    "shed worker",
+    "sheepskin worker",
+    "soap worker",
+    "tannery worker",
+    "whiting worker",
+    "lime yard worker",
+    "tan yard worker"
+  ],
+  "7219": [
+    "customer service administrator",
+    "customer care adviser",
+    "consumer adviser",
+    "customer adviser",
+    "customer relations adviser",
+    "customer service adviser",
+    "service adviser",
+    "customer services adviser",
+    "customer advocate",
+    "reservations agent",
+    "customer services agent",
+    "customer care assistant",
+    "service centre assistant",
+    "customer liaison assistant",
+    "customer relations assistant",
+    "reservations assistant",
+    "customer service assistant",
+    "customer services assistant",
+    "customer care associate",
+    "consumer clerk",
+    "customer liaison clerk",
+    "sales query clerk",
+    "reservations clerk",
+    "customer service clerk",
+    "consumer services clerk",
+    "customer services clerk",
+    "customer care consultant",
+    "customer service consultant",
+    "consumer controller",
+    "customer care coordinator",
+    "customer service coordinator",
+    "customer relations executive",
+    "customer services executive",
+    "store guide",
+    "customer care officer",
+    "commercial officer",
+    "complaints officer",
+    "customer liaison officer",
+    "sales liaison officer",
+    "customer relations officer",
+    "customer service officer",
+    "customer services officer",
+    "customer relations representative",
+    "customer service representative",
+    "customer services representative",
+    "reservationist",
+    "customer service specialist"
+  ],
+  "8116": [
+    "bench worker",
+    "composite worker",
+    "factory worker",
+    "plastics worker"
+  ],
+  "8211": [
+    "coalman",
+    "milk collector",
+    "refuse collector",
+    "lorry driver",
+    "cattle transporter",
+    "livestock transporter"
+  ],
+  "5423": [
+    "sewing machinist",
+    "machinist",
+    "book repairer",
+    "darkroom technician"
+  ],
+  "3531": [
+    "boiler and engine surveyor",
+    "engineering surveyor",
+    "fire surveyor",
+    "insulation surveyor",
+    "insurance surveyor",
+    "marine surveyor",
+    "nautical surveyor",
+    "naval surveyor",
+    "rating surveyor",
+    "valuation surveyor",
+    "window surveyor"
+  ],
+  "8127": [
+    "general assistant",
+    "photo lab assistant",
+    "letterpress assistant",
+    "letter press machinist",
+    "press machinist",
+    "printer's machinist",
+    "printing machinist",
+    "bindery technician",
+    "photo laboratory technician",
+    "process worker",
+    "table worker"
+  ],
+  "9236": [
+    "car wash assistant",
+    "valet",
+    "car washer",
+    "lorry washer",
+    "van washer"
+  ],
+  "6146": [
+    "senior community care assistant",
+    "senior home care assistant",
+    "senior care assistant",
+    "senior carer",
+    "senior care worker",
+    "resident social worker",
+    "senior support worker"
+  ],
+  "8129": [
+    "joiner",
+    "machinist",
+    "oilman",
+    "saw repairer",
+    "rigger",
+    "linoleum worker",
+    "wire worker",
+    "worksetter",
+    "cable wrapper"
+  ],
+  "4122": [
+    "bookkeeper",
+    "accounts clerk",
+    "audit clerk",
+    "book-keeping clerk",
+    "accounts control clerk",
+    "invoice clerk",
+    "invoicing clerk",
+    "book keeping clerk",
+    "ledger clerk",
+    "pay clerk",
+    "accounts payable clerk",
+    "payroll clerk",
+    "salaries clerk",
+    "wage clerk",
+    "invoice manager",
+    "accounts payable supervisor",
+    "payroll supervisor"
+  ],
+  "8133": [
+    "quality control officer",
+    "quality assurance operator",
+    "confectionery picker",
+    "boiler technician",
+    "brake tester",
+    "valve tester",
+    "vehicle tester",
+    "wire tester"
+  ],
+  "4213": [
+    "administrative assistant",
+    "clerical assistant",
+    "school clerk",
+    "clerk",
+    "secretary"
+  ],
+  "8149": [
+    "miner",
+    "building repairer",
+    "demolition worker",
+    "distribution worker"
+  ],
+  "4123": [
+    "telephone banking adviser",
+    "claims processor",
+    "customer service representative",
+    "teller"
+  ],
+  "3233": [
+    "behaviour mentor",
+    "child protection officer",
+    "behaviour support officer",
+    "child support officer",
+    "portage worker"
+  ],
+  "5412": [
+    "interior decorator",
+    "upholsterer"
+  ],
+  "4131": [
+    "booking office clerk",
+    "staff clerk",
+    "warranty clerk",
+    "clerk",
+    "clerk-typist",
+    "indexer"
+  ],
+  "2451": [
+    "librarian's assistant"
+  ],
+  "4112": [
+    "benefits adviser",
+    "clerk",
+    "clerk-typist",
+    "benefit fraud investigator",
+    "social fund officer",
+    "case worker"
+  ],
+  "5413": [
+    "framer",
+    "riveting machinist",
+    "machinist",
+    "shoe maker and repairer",
+    "boot and shoe repairer",
+    "shoe repairer",
+    "riveter",
+    "leather worker"
+  ],
+  "5441": [
+    "potter",
+    "pottery worker",
+    "prism worker",
+    "tile worker"
+  ],
+  "4129": [
+    "betting shop cashier",
+    "cashier",
+    "bookmaker's clerk",
+    "receptionist-cashier",
+    "ticket seller",
+    "shop worker"
+  ],
+  "9241": [
+    "loss prevention officer",
+    "cctv operator",
+    "close circuit television operator",
+    "patrol",
+    "patrolman",
+    "gate porter",
+    "lodge porter",
+    "security porter",
+    "park warden",
+    "security warden"
+  ],
+  "8119": [
+    "miller",
+    "kiln worker",
+    "stone worker",
+    "tile worker"
+  ],
+  "3544": [
+    "estate agent",
+    "house agent",
+    "land agent",
+    "land and estate agent",
+    "letting agent",
+    "property agent",
+    "relocation agent",
+    "estate agent's assistant",
+    "auctioneer"
+  ],
+  "5436": [
+    "caterer",
+    "coffee stall keeper",
+    "bar manager",
+    "canteen manager",
+    "catering manager",
+    "conference and banqueting manager",
+    "floor manager",
+    "food and beverage manager",
+    "kitchen manager",
+    "dining room manager",
+    "club steward"
+  ],
+  "6144": [
+    "community assistant",
+    "community warden",
+    "housing warden",
+    "warden",
+    "child care worker"
+  ],
+  "6131": [
+    "animal nurse",
+    "canine nurse",
+    "veterinary nurse"
+  ],
+  "9111": [
+    "farm assistant",
+    "labourer",
+    "agricultural worker",
+    "farm worker",
+    "field worker"
+  ],
+  "2319": [
+    "dance lecturer",
+    "adult education organiser",
+    "teacher",
+    "private tutor",
+    "tutor"
+  ],
+  "5113": [
+    "landscape gardener",
+    "gardener",
+    "gardener-caretaker",
+    "gardener-groundsman",
+    "gardener-handyman",
+    "handyman-gardener"
+  ],
+  "3111": [
+    "seed tester",
+    "soil tester",
+    "water tester",
+    "laboratory worker"
+  ],
+  "4113": [
+    "parish council clerk",
+    "property clerk",
+    "rating clerk",
+    "senior clerk",
+    "poll tax clerk",
+    "clerk",
+    "case worker",
+    "clerical worker"
+  ],
+  "7129": [
+    "skip hire operator",
+    "advertising salesman",
+    "insurance salesman",
+    "club secretary",
+    "car hire supervisor"
+  ],
+  "1190": [
+    "butcher's shop manager",
+    "charity shop manager",
+    "farm shop manager",
+    "fishmonger's shop manager",
+    "book stall manager",
+    "petrol station manager",
+    "service station manager",
+    "store manager"
+  ],
+  "7214": [
+    "emergency medical dispatcher",
+    "radio dispatcher",
+    "taxi dispatcher",
+    "radar operator",
+    "radio operator",
+    "control room operator"
+  ],
+  "5231": [
+    "mechanic",
+    "service technician",
+    "motor vehicle technician",
+    "MOT tester"
+  ],
+  "9271": [
+    "domestic porter",
+    "general porter",
+    "hall porter",
+    "head porter",
+    "hospital porter",
+    "night porter",
+    "ward porter",
+    "porter"
+  ],
+  "4133": [
+    "inventory administrator",
+    "parts administrator",
+    "production administrator",
+    "stock administrator",
+    "stores administrator",
+    "warehouse administrator",
+    "inventory analyst",
+    "supply chain assistant",
+    "stock control assistant",
+    "materials assistant",
+    "merchandise assistant",
+    "operations assistant",
+    "pharmacy assistant",
+    "publisher's assistant",
+    "stock room assistant",
+    "store room assistant",
+    "stock clerk",
+    "front line manager",
+    "stock taker"
+  ],
+  "4132": [
+    "administrative assistant",
+    "underwriter's assistant",
+    "policy examiner",
+    "claims handler",
+    "claims processor",
+    "administrative superintendent",
+    "supervisor",
+    "claims technician",
+    "insurance technician",
+    "motor technician",
+    "pensions technician",
+    "pensions review technician",
+    "technician",
+    "clerical worker"
+  ],
+  "9211": [
+    "mail room attendant",
+    "post clerk",
+    "postal clerk",
+    "post room clerk",
+    "waiter",
+    "postal delivery worker",
+    "post office worker",
+    "postal worker"
+  ],
+  "4114": [
+    "charity administrator",
+    "secretary",
+    "shop steward"
+  ],
+  "4151": [
+    "sales contracts administrator",
+    "marketing administrator",
+    "sales office administrator",
+    "sales order administrator",
+    "retail administrator",
+    "sales administrator",
+    "sales support administrator",
+    "sales administration assistant",
+    "commercial assistant",
+    "marketing assistant",
+    "operations assistant",
+    "ebay trading assistant",
+    "sales administration clerk",
+    "sales office clerk",
+    "sales order clerk",
+    "sales clerk",
+    "sales coordinator",
+    "sales and marketing coordinator"
+  ],
+  "9235": [
+    "recycling worker",
+    "salvage worker"
+  ],
+  "6212": [
+    "travel sales adviser",
+    "travel adviser",
+    "booking agent",
+    "travel agent",
+    "tour operator"
+  ],
+  "5330": [
+    "ballast inspector",
+    "bridge inspector",
+    "district inspector",
+    "drain inspector",
+    "drainage inspector",
+    "excavating inspector",
+    "highways inspector",
+    "pipe line inspector",
+    "line inspector",
+    "mains inspector",
+    "maintenance inspector",
+    "building supervisor",
+    "construction supervisor",
+    "contract supervisor",
+    "contracts supervisor",
+    "distribution supervisor",
+    "maintenance supervisor",
+    "plumbing supervisor"
+  ],
+  "4124": [
+    "church finance officer"
+  ],
+  "4162": [
+    "senior assistant clerk",
+    "chief clerk",
+    "head clerk",
+    "supervising clerk"
+  ],
+  "2432": [
+    "enforcement officer"
+  ],
+  "4134": [
+    "flight superintendent",
+    "shipping superintendent",
+    "cargo supervisor",
+    "freight supervisor",
+    "logistics supervisor",
+    "meals-on-wheels supervisor",
+    "traffic supervisor"
+  ],
+  "3234": [
+    "housing adviser",
+    "housing project coordinator",
+    "support officer",
+    "housing support worker",
+    "tenancy support worker"
+  ],
+  "1251": [
+    "building manager"
+  ],
+  "3239": [
+    "benefits adviser",
+    "welfare assistant",
+    "social work assistant",
+    "welfare attendant",
+    "charity coordinator",
+    "officiant",
+    "day care organiser",
+    "home care organiser",
+    "care organiser",
+    "day centre organiser",
+    "home help organiser",
+    "project organiser",
+    "welfare organiser",
+    "volunteer work organiser",
+    "community organiser",
+    "lay preacher",
+    "local preacher",
+    "welfare superintendent",
+    "day care supervisor",
+    "day centre supervisor",
+    "welfare supervisor",
+    "advice worker",
+    "advocacy worker",
+    "family aid worker",
+    "church army worker",
+    "advice case worker",
+    "case worker",
+    "outreach worker",
+    "participation and rights worker",
+    "refugee worker",
+    "rehabilitation worker",
+    "resettlement worker",
+    "sessional worker",
+    "settlement worker",
+    "str worker",
+    "crisis support worker",
+    "welfare worker"
+  ],
+  "3546": [
+    "events assistant",
+    "conference consultant",
+    "exhibition consultant",
+    "exhibitions consultant",
+    "banqueting coordinator",
+    "conference call coordinator",
+    "conference coordinator",
+    "events coordinator",
+    "exhibition coordinator",
+    "function coordinator",
+    "seminars coordinator",
+    "wedding coordinator",
+    "production manager",
+    "wedding planner",
+    "events organiser"
+  ],
+  "9242": [
+    "parking attendant",
+    "wheel clamper",
+    "car park inspector",
+    "civil enforcement officer",
+    "car park officer",
+    "car park steward",
+    "car park supervisor",
+    "community warden",
+    "estate warden",
+    "neighbourhood warden",
+    "traffic warden"
+  ],
+  "1253": [
+    "barber's manager",
+    "hairdresser's manager",
+    "health and fitness manager",
+    "health studio owner"
+  ],
+  "3543": [
+    "business development assistant",
+    "sales marketing assistant",
+    "sales and marketing assistant",
+    "marketing associate",
+    "fund raiser",
+    "advertising creative copy writer",
+    "publicity writer"
+  ],
+  "4121": [
+    "loans administrator",
+    "credit control assistant",
+    "debt management associate",
+    "authorisation clerk",
+    "authorisation clerk",
+    "credit control clerk",
+    "debt recovery clerk",
+    "collections officer"
+  ],
+  "1223": [
+    "café manager",
+    "operations manager",
+    "restaurant manager",
+    "shift manager",
+    "fish and chip shop manager",
+    "shop manager",
+    "store manager",
+    "restaurateur",
+    "retailer",
+    "shopkeeper"
+  ]
+}

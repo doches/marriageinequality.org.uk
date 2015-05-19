@@ -1,0 +1,7 @@
+.DS_Store
+client/build/
+node_modules/
+bower_components/
+server/data
+*.sketch
+client/dist/

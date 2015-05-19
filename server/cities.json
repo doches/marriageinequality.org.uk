@@ -1,0 +1,29 @@
+{
+  "south_east": [
+    "Brighton",
+    "Chichester",
+    "Canterbury",
+    "Oxford",
+    "Portsmouth",
+    "Southampton",
+    "Winchester"
+  ],
+  "wales": ["Gwynedd", "Cardiff", "Newport", "St Davids", "St Asaph", "Swansea"],
+  "north_east": ["Broompark", "Durham", "Newcastle upon Tyne", "Sunderland"],
+  "scotland": ["Aberdeen", "Dundee", "Edinburgh", "Glasgow", "Inverness", "Perth", "Stirling"],
+  "east_midlands": ["Derby", "Leicester", "Nottingham"],
+  "london": ["London"],
+  "east": ["Cambridge", "Chelmsford", "Ely", "Norwich", "Peterborough", "St Albans"],
+  "west_midlands": ["Birmingham", "Coventry", "Hereford", "Lichfield", "Stoke-on-Trent", "Wolverhampton", "Worcester"],
+  "south_west": ["Bath", "Bristol", "Exeter", "Plymouth", "Salisbury", "Truro", "Wells"],
+  "north_west": ["Carlisle","Lancaster", "Liverpool", "Manchester", "Preston", "Salford"],
+  "yorkshire_and_the_humber": [
+    "Bradford",
+    "Kingston upon Hull",
+    "Leeds",
+    "Ripon",
+    "Sheffield",
+    "Wakefield",
+    "York"
+  ]
+}
