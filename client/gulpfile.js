@@ -16,6 +16,7 @@ var es = require('event-stream');
 var optipng = require('gulp-optipng');
 var gulpFilter = require('gulp-filter');
 var uglify = require('gulp-uglify');
+var runSequence = require('run-sequence');
 
 // Compile less into CSS
 gulp.task('less', function () {
@@ -84,9 +85,13 @@ gulp.task("image", function() {
 
 gulp.task('dev', ['build', 'serve-dev']);
 
-gulp.task("dist", ["build", "make-release"]);
+gulp.task("dist", function(callback) {
+  runSequence("build", "make-release", "html-release", callback);
+});
 
-gulp.task("build", ["coffee", "less", "templates", "html", "image", "copy-js"]);
+gulp.task("build", function(callback) {
+  runSequence(["coffee", "less", "templates", "image", "copy-js"], "html", callback);
+});
 
 gulp.task("make-release", function() {
   // App scripts
@@ -113,19 +118,18 @@ gulp.task("make-release", function() {
     .pipe(gulpFilter('**/*.css'))
     .pipe(concat('third-party.css'))
     .pipe(gulp.dest('./dist/styles/third-party/'))
+});
 
+gulp.task('html-release', function() {
   // HTML
   gulp.src('./src/*.html')
     .pipe(inject(
-      gulp.src(['./scripts/*.js', './styles/*.css'], {read: false, cwd: './dist'}), {
+      gulp.src(['./dist/scripts/*.js', './dist/styles/*.css'], {read: false}), {
         ignorePath: '../dist/',
         relative: true
       }))
-    .pipe(gulp.dest('./dist'));
-  // HTML AGAIN, to include third-party resources
-  gulp.src('./dist/*.html')
     .pipe(inject(
-      gulp.src(['./scripts/third-party/*.js', './styles/third-party/*.css'], {read: false, cwd: './dist'}), {
+      gulp.src(['./dist/scripts/third-party/*.js', './dist/styles/third-party/*.css'], {read: false}), {
         ignorePath: '../dist/',
         relative: true,
         name: 'bower'
